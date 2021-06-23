@@ -1,4 +1,4 @@
-# anisa-knime-irancell
+# Anisa "Data Science with KNIME" course (Irnacell)
 This repository is created for a "Data Science with KNIME" course.
 
 Participatns should fork this repository and upload reqired assignment files after each session.
